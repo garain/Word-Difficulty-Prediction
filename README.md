@@ -1,4 +1,4 @@
-# Word-Difficulty-Prediction
+# Word-Difficulty-Prediction [![HitCount](http://hits.dwyl.com/garain/Word-Difficulty-Prediction.svg)](http://hits.dwyl.com/garain/Word-Difficulty-Prediction)
 Predict difficulty of a word using CNN.
 
 # Training the model
